@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapKharkovApp</string>
+    <string name="title_activity_maps">MapKharkovApp</string>
+    <string name="label">Address</string>
+    <string name="url_share_taxi">http://gortransport.kharkov.ua/bus/routes/</string>
+    <string name="url_subway">http://gortransport.kharkov.ua/subway/index.html</string>
+    <string name="url_tram">http://gortransport.kharkov.ua/tram/index.html</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>
